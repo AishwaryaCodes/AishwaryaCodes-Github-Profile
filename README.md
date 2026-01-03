@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate Software Developer | 6+ Years in Tech | AI-ML | Women in Tech</h3>
 
----
+--- 
 
 ## 🔥 About Me
 
